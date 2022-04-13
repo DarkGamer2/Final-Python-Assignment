@@ -1,0 +1,25 @@
+{
+    "accounts": [
+        {
+            "name":"John Smith",
+            "account_number":"0001",
+            "account_type":"Savings",
+            "amount":"$100.00 TTD"
+        },
+        {
+           "name":"Julie Johnson",
+           "account_number":"0002",
+           "account_type":"Chequing", 
+           "amount":"$2000.00 TTD"
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        }
+    ]
+}
